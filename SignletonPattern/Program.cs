@@ -3,7 +3,7 @@
 namespace SignletonPattern
 {
     /// <summary>
-    /// Program Class of this Application
+    /// Program Class of this application
     /// </summary>
     class Program
     {
